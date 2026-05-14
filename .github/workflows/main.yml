@@ -20,4 +20,4 @@ jobs:
       - name: Run ShellCheck
         run: shellcheck code.sh
       - name: Usage
-        run: bash code.sh help
+        run: bash code.sh help\n
